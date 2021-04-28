@@ -1,0 +1,14 @@
+type: code
+files:
+- name: build.gradle
+  visible: true
+  learner_created: true
+- name: src/main/kotlin/CarPrice.kt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/4719#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 06 Apr 2021 14:49:44 UTC
+record: -1

@@ -1,0 +1,11 @@
+type: code
+files:
+- name: src/main/kotlin/onepositive.kt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/4537#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 21 Apr 2021 11:25:22 UTC
+record: -1

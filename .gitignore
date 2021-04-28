@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/build/
+/Problems/Car price/build/
+/Problems/Exactly one parameter is positive/build/
+/Problems/Find the first occurrence of the word  the/build/
+/Problems/Find the max/build/
+/Problems/Perimeter/build/
+/Tip Calculator/task/build/
+/Tip Calculator/task/build/intermediates/javac/debug/classes/

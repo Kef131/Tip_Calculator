@@ -1,0 +1,11 @@
+type: code
+files:
+- name: src/main/kotlin/Perimeter.kt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/7862#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 26 Apr 2021 12:04:44 UTC
+record: -1

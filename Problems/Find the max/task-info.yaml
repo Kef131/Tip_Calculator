@@ -1,0 +1,11 @@
+type: code
+files:
+- name: src/main/kotlin/FindTheMax.kt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/4703#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 16 Apr 2021 12:28:40 UTC
+record: -1
